@@ -1,2 +1,4 @@
 print('Я поменял пароль')
 print('Error')
+print('')
+print('kokoko')
